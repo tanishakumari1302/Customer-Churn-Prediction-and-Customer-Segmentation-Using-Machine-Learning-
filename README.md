@@ -353,7 +353,7 @@ Future improvements may include:
 * Cloud Deployment
 * Customer Feedback Analysis
 
- MConclusion
+ Conclusion
 
 This project successfully combines machine learning classification and customer segmentation techniques to address the critical problem of customer churn in the telecommunications industry.
 
